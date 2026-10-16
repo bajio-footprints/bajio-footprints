@@ -1,0 +1,204 @@
+{
+ "views": [
+  {
+   "name": "guanajuato",
+   "viewpoint": {
+    "lat": 21.01434,
+    "lon": -101.25454
+   },
+   "az": [
+    -30,
+    100
+   ],
+   "canvas_width": 1600,
+   "buildings": {
+    "osm": [
+     "data/guanajuato.osm.json"
+    ],
+    "ms": [
+     "data/guanajuato.microsoft.json"
+    ],
+    "dmin_km": 0.1,
+    "dmax_km": 3.2,
+    "min_area": 30,
+    "heights": [
+     [
+      60,
+      5.5
+     ],
+     [
+      150,
+      7
+     ],
+     [
+      400,
+      9
+     ],
+     [
+      1500,
+      11
+     ],
+     [
+      5000,
+      13
+     ],
+     [
+      1000000000000.0,
+      15
+     ]
+    ]
+   },
+   "exclusions": [
+    {
+     "lat": 21.01653,
+     "lon": -101.25336,
+     "radius_m": 28
+    },
+    {
+     "lat": 21.01756,
+     "lon": -101.25314,
+     "radius_m": 40
+    },
+    {
+     "lat": 21.01744,
+     "lon": -101.25254,
+     "radius_m": 28
+    },
+    {
+     "lat": 21.01528,
+     "lon": -101.25305,
+     "radius_m": 28
+    },
+    {
+     "lat": 21.01571,
+     "lon": -101.25323,
+     "radius_m": 8
+    }
+   ],
+   "lamps": {
+    "files": [
+     "data/guanajuato.osm.json"
+    ]
+   }
+  },
+  {
+   "name": "queretaro",
+   "viewpoint": {
+    "lat": 20.59016,
+    "lon": -100.37304
+   },
+   "az": [
+    -100,
+    30
+   ],
+   "canvas_width": 1600,
+   "buildings": {
+    "osm": [
+     "data/queretaro.osm.json"
+    ],
+    "ms": [
+     "data/queretaro.microsoft.json"
+    ],
+    "dmin_km": 0.09,
+    "dmax_km": 4,
+    "min_area": 40,
+    "heights": [
+     [
+      80,
+      4.5
+     ],
+     [
+      200,
+      6.5
+     ],
+     [
+      600,
+      9
+     ],
+     [
+      2000,
+      12
+     ],
+     [
+      1000000000000.0,
+      15
+     ]
+    ]
+   },
+   "exclusions": [
+    {
+     "lat": 20.59289,
+     "lon": -100.38369,
+     "radius_m": 40
+    },
+    {
+     "lat": 20.58805,
+     "lon": -100.39658,
+     "radius_m": 30
+    },
+    {
+     "lat": 20.59301,
+     "lon": -100.3921,
+     "radius_m": 8
+    }
+   ],
+   "lamps": {
+    "files": [
+     "data/queretaro.osm.json"
+    ]
+   }
+  },
+  {
+   "name": "silao",
+   "viewpoint": {
+    "lat": 20.975,
+    "lon": -101.47
+   },
+   "az": [
+    -50,
+    100
+   ],
+   "canvas_width": 1600,
+   "buildings": {
+    "osm": [
+     "data/silao-buildings.osm.json",
+     "data/silao-building-relations.osm.json"
+    ],
+    "ms": [
+     "data/silao.microsoft.json"
+    ],
+    "dmin_km": 0.8,
+    "dmax_km": 9,
+    "min_area": 800,
+    "heights": [
+     [
+      1500,
+      7
+     ],
+     [
+      5000,
+      9
+     ],
+     [
+      20000,
+      11
+     ],
+     [
+      60000,
+      13
+     ],
+     [
+      1000000000000.0,
+      15
+     ]
+    ]
+   },
+   "exclusions": [],
+   "lamps": {
+    "files": [
+     "data/silao-roads.osm.json"
+    ]
+   }
+  }
+ ]
+}

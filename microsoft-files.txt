@@ -1,0 +1,6 @@
+# Microsoft Global ML Building Footprints, release 2026-08-13 (CDLA-Permissive-2.0).
+# Index: https://bfppub.blob.core.windows.net/%24web/2026-08-13/dataset-links.csv
+# quadkey  sha256  url
+023301113  628eb247b60c129ed6e74b31ea905446a81189cd24d4a4889abcbffd1890e986  https://bfppub.z5.web.core.windows.net/2026-08-13/global-buildings.geojsonl/RegionName=Mexico/quadkey=023301113/part-00134-110f5303-ff85-4c71-a2bf-c6070024fec8.c000.csv.gz
+023310002  afa2cef16f1c4f5b44a1488dfb68e3b66c4032ee57bfcd9d0e944e00c3b006e6  https://bfppub.z5.web.core.windows.net/2026-08-13/global-buildings.geojsonl/RegionName=Mexico/quadkey=023310002/part-00086-110f5303-ff85-4c71-a2bf-c6070024fec8.c000.csv.gz
+023310021  f946e396d860893eb1e3ecea39db045686ca9a3952ab67e9919d0455ba41b232  https://bfppub.z5.web.core.windows.net/2026-08-13/global-buildings.geojsonl/RegionName=Mexico/quadkey=023310021/part-00150-110f5303-ff85-4c71-a2bf-c6070024fec8.c000.csv.gz
